@@ -31,6 +31,7 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
 
 # typescript
@@ -39,3 +40,11 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# importFootballData.js calisma kopyasi — kaynagi ~/Desktop/MatchResults,
+# repoya gerek yok. Uygulamaya gomulen snapshot assets/betting.db'dir.
+/betting-seed.db
+/betting-seed.db-*
+
+# derlenmis APK ciktilari — build zamaninda uretilir, repoya gerek yok
+*.apk

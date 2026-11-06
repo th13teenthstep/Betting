@@ -1,0 +1,82 @@
+{
+  "39": { "source": "file", "xlsxSheet": "E0", "name": "Premier League", "country": "England", "logo": "https://media.api-sports.io/football/leagues/39.png", "flag": "🏴" },
+  "40": { "source": "file", "xlsxSheet": "E1", "name": "Championship", "country": "England", "logo": "https://media.api-sports.io/football/leagues/40.png", "flag": "🏴" },
+  "9001": { "source": "file", "xlsxSheet": "E2", "name": "League One", "country": "England", "logo": "", "flag": "🏴" },
+  "9002": { "source": "file", "xlsxSheet": "E3", "name": "League Two", "country": "England", "logo": "", "flag": "🏴" },
+  "9003": { "source": "file", "xlsxSheet": "EC", "name": "National League", "country": "England", "logo": "", "flag": "🏴" },
+
+  "9004": { "source": "file", "xlsxSheet": "SC0", "name": "Scottish Premiership", "country": "Scotland", "logo": "", "flag": "🏴" },
+  "9005": { "source": "file", "xlsxSheet": "SC1", "name": "Scottish Championship", "country": "Scotland", "logo": "", "flag": "🏴" },
+  "9006": { "source": "file", "xlsxSheet": "SC2", "name": "Scottish League One", "country": "Scotland", "logo": "", "flag": "🏴" },
+  "9007": { "source": "file", "xlsxSheet": "SC3", "name": "Scottish League Two", "country": "Scotland", "logo": "", "flag": "🏴" },
+
+  "78": { "source": "file", "xlsxSheet": "D1", "name": "Bundesliga", "country": "Germany", "logo": "https://media.api-sports.io/football/leagues/78.png", "flag": "🇩🇪" },
+  "79": { "source": "file", "xlsxSheet": "D2", "name": "2. Bundesliga", "country": "Germany", "logo": "https://media.api-sports.io/football/leagues/79.png", "flag": "🇩🇪" },
+
+  "140": { "source": "file", "xlsxSheet": "SP1", "name": "La Liga", "country": "Spain", "logo": "https://media.api-sports.io/football/leagues/140.png", "flag": "🇪🇸" },
+  "141": { "source": "file", "xlsxSheet": "SP2", "name": "Segunda Division", "country": "Spain", "logo": "https://media.api-sports.io/football/leagues/141.png", "flag": "🇪🇸" },
+
+  "135": { "source": "file", "xlsxSheet": "I1", "name": "Serie A", "country": "Italy", "logo": "https://media.api-sports.io/football/leagues/135.png", "flag": "🇮🇹" },
+  "9008": { "source": "file", "xlsxSheet": "I2", "name": "Serie B", "country": "Italy", "logo": "", "flag": "🇮🇹" },
+
+  "61": { "source": "file", "xlsxSheet": "F1", "name": "Ligue 1", "country": "France", "logo": "https://media.api-sports.io/football/leagues/61.png", "flag": "🇫🇷" },
+  "9009": { "source": "file", "xlsxSheet": "F2", "name": "Ligue 2", "country": "France", "logo": "", "flag": "🇫🇷" },
+
+  "9010": { "source": "file", "xlsxSheet": "B1", "name": "Jupiler Pro League", "country": "Belgium", "logo": "", "flag": "🇧🇪" },
+
+  "88": { "source": "file", "xlsxSheet": "N1", "name": "Eredivisie", "country": "Netherlands", "logo": "https://media.api-sports.io/football/leagues/88.png", "flag": "🇳🇱" },
+  "89": { "source": "api", "competitionId": "comp_2977", "name": "Eerste Divisie", "country": "Netherlands", "logo": "https://media.api-sports.io/football/leagues/89.png", "flag": "🇳🇱" },
+
+  "94": { "source": "file", "xlsxSheet": "P1", "name": "Primeira Liga", "country": "Portugal", "logo": "https://media.api-sports.io/football/leagues/94.png", "flag": "🇵🇹" },
+
+  "203": { "source": "file", "xlsxSheet": "T1", "name": "Super Lig", "country": "Turkey", "logo": "https://media.api-sports.io/football/leagues/203.png", "flag": "🇹🇷" },
+
+  "9011": { "source": "file", "xlsxSheet": "G1", "name": "Super League Greece", "country": "Greece", "logo": "", "flag": "🇬🇷" },
+
+  "9012": { "source": "file", "csvFile": "ARG.csv", "csvLeagueFilter": "Liga Profesional", "name": "Liga Profesional", "country": "Argentina", "logo": "", "flag": "🇦🇷" },
+  "9013": { "source": "file", "csvFile": "BRA.csv", "csvLeagueFilter": "Serie A", "name": "Brasileirão Série A", "country": "Brazil", "logo": "", "flag": "🇧🇷" },
+  "9014": { "source": "file", "csvFile": "CHN.csv", "csvLeagueFilter": "Super League", "name": "Chinese Super League", "country": "China", "logo": "", "flag": "🇨🇳" },
+  "9015": { "source": "file", "csvFile": "DNK.csv", "csvLeagueFilter": "Superliga", "name": "Danish Superliga", "country": "Denmark", "logo": "", "flag": "🇩🇰" },
+  "9016": { "source": "file", "csvFile": "JPN.csv", "csvLeagueFilter": "J1 League", "name": "J1 League", "country": "Japan", "logo": "", "flag": "🇯🇵" },
+  "9017": { "source": "file", "csvFile": "NOR.csv", "csvLeagueFilter": "Eliteserien", "name": "Eliteserien", "country": "Norway", "logo": "", "flag": "🇳🇴" },
+  "9018": { "source": "file", "csvFile": "SWE.csv", "csvLeagueFilter": "Allsvenskan", "name": "Allsvenskan", "country": "Sweden", "logo": "", "flag": "🇸🇪" },
+  "9019": { "source": "file", "csvFile": "SWZ.csv", "csvLeagueFilter": "Super League", "name": "Swiss Super League", "country": "Switzerland", "logo": "", "flag": "🇨🇭" },
+  "9020": { "source": "file", "csvFile": "USA.csv", "csvLeagueFilter": "MLS", "name": "MLS", "country": "USA", "logo": "", "flag": "🇺🇸" },
+
+  "9021": { "source": "api", "competitionId": "comp_3498", "name": "UEFA Şampiyonlar Ligi", "country": "Europe", "logo": "", "flag": "🇪🇺" },
+  "9022": { "source": "api", "competitionId": "comp_7739", "name": "UEFA Avrupa Ligi", "country": "Europe", "logo": "", "flag": "🇪🇺" },
+  "9023": { "source": "api", "competitionId": "comp_408698", "name": "UEFA Konferans Ligi", "country": "Europe", "logo": "", "flag": "🇪🇺" },
+  "9024": { "source": "api", "competitionId": "comp_4811", "name": "UEFA Süper Kupa", "country": "Europe", "logo": "", "flag": "🇪🇺" },
+
+  "9025": { "source": "api", "competitionId": "comp_6107", "name": "FIFA Dünya Kupası", "country": "World", "logo": "", "flag": "🌍" },
+  "9026": { "source": "api", "competitionId": "comp_2949", "name": "EURO", "country": "Europe", "logo": "", "flag": "🇪🇺" },
+  "9027": { "source": "api", "competitionId": "comp_5749", "name": "Copa América", "country": "South America", "logo": "", "flag": "🌎" },
+  "9028": { "source": "api", "competitionId": "comp_1554", "name": "Africa Cup of Nations", "country": "Africa", "logo": "", "flag": "🌍" },
+  "9029": { "source": "api", "competitionId": "comp_1376", "name": "CONCACAF Gold Cup", "country": "North America", "logo": "", "flag": "🌎" },
+
+  "9030": { "source": "api", "competitionId": "comp_0499", "name": "CONMEBOL Libertadores", "country": "South America", "logo": "", "flag": "🌎" },
+  "9031": { "source": "api", "competitionId": "comp_1615", "name": "CONMEBOL Sudamericana", "country": "South America", "logo": "", "flag": "🌎" },
+  "9032": { "source": "api", "competitionId": "comp_5432", "name": "AFC Champions League Elite", "country": "Asia", "logo": "", "flag": "🌏" },
+  "9033": { "source": "api", "competitionId": "comp_08478", "name": "CAF Champions League", "country": "Africa", "logo": "", "flag": "🌍" },
+
+  "9034": { "source": "api", "competitionId": "comp_7428", "name": "FA Cup", "country": "England", "logo": "", "flag": "🏴" },
+  "9035": { "source": "api", "competitionId": "comp_2504", "name": "EFL Cup", "country": "England", "logo": "", "flag": "🏴" },
+  "9036": { "source": "api", "competitionId": "comp_7915", "name": "Copa del Rey", "country": "Spain", "logo": "", "flag": "🇪🇸" },
+  "9037": { "source": "api", "competitionId": "comp_3620", "name": "DFB Pokal", "country": "Germany", "logo": "", "flag": "🇩🇪" },
+  "9038": { "source": "api", "competitionId": "comp_8525", "name": "Coppa Italia", "country": "Italy", "logo": "", "flag": "🇮🇹" },
+  "9039": { "source": "api", "competitionId": "comp_4750", "name": "Coupe de France", "country": "France", "logo": "", "flag": "🇫🇷" },
+  "9040": { "source": "api", "competitionId": "comp_6314", "name": "Taça de Portugal", "country": "Portugal", "logo": "", "flag": "🇵🇹" },
+  "9041": { "source": "api", "competitionId": "comp_7475", "name": "Liga Portugal 2", "country": "Portugal", "logo": "", "flag": "🇵🇹" },
+
+  "9042": { "source": "api", "competitionId": "comp_4893", "name": "Austrian Bundesliga", "country": "Austria", "logo": "", "flag": "🇦🇹" },
+  "9043": { "source": "api", "competitionId": "comp_5824", "name": "Russian Premier League", "country": "Russia", "logo": "", "flag": "🇷🇺" },
+  "9044": { "source": "api", "competitionId": "comp_45025", "name": "Saudi Pro League", "country": "Saudi Arabia", "logo": "", "flag": "🇸🇦" },
+  "9045": { "source": "api", "competitionId": "comp_298265", "name": "Liga MX", "country": "Mexico", "logo": "", "flag": "🇲🇽" },
+  "9046": { "source": "api", "competitionId": "comp_9711", "name": "Ekstraklasa", "country": "Poland", "logo": "", "flag": "🇵🇱" },
+  "9047": { "source": "api", "competitionId": "comp_1941", "name": "HNL", "country": "Croatia", "logo": "", "flag": "🇭🇷" },
+  "9048": { "source": "api", "competitionId": "comp_8363", "name": "Ukrainian Premier League", "country": "Ukraine", "logo": "", "flag": "🇺🇦" },
+  "9049": { "source": "api", "competitionId": "comp_9766", "name": "Czech First League", "country": "Czech Republic", "logo": "", "flag": "🇨🇿" },
+  "9050": { "source": "api", "competitionId": "comp_6429", "name": "Israeli Premier League", "country": "Israel", "logo": "", "flag": "🇮🇱" },
+  "9051": { "source": "api", "competitionId": "comp_1646", "name": "K League 1", "country": "South Korea", "logo": "", "flag": "🇰🇷" },
+  "9052": { "source": "api", "competitionId": "comp_45551", "name": "Qatar Stars League", "country": "Qatar", "logo": "", "flag": "🇶🇦" }
+}
